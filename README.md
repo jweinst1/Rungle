@@ -17,3 +17,14 @@ Moves the pointer one place to the right, or increases the index of the pointer 
 
 ####`<`:
 Moves the pointer one place to the left, or decreases the index of the pointer on the array of cells. This will never
+
+####`+`:
+Increments the value of the current cell by one.
+
+####`-`:
+Decrements or decreases the value of the current cell by one. Can go below zero and produce negative numbers.
+
+####`.`: 
+Prints the value of the current cell. Doing repeated periods will cause the same value to be printed multiple times, seperated by spaces.
+
+####`!`:
