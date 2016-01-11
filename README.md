@@ -28,3 +28,13 @@ Decrements or decreases the value of the current cell by one. Can go below zero 
 Prints the value of the current cell. Doing repeated periods will cause the same value to be printed multiple times, seperated by spaces.
 
 ####`!`:
+Resets the pointer back to `0`.
+
+####`#`:
+Adds the value of the current cell to the next cell.
+
+####`^`:
+Multiplies the current cell by the value of the next cell.
+
+####`*`:
+Sums the value of all cells up to the cell the pointer is currently at, and sets that value to the current cell.
